@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mangisho.github.io/sitemap.html.gz
+Sitemap: https://mangisho.github.io/app/sitemap.html.gz
+Sitemap: https://mangisho.github.io/assets/sitemap.html.gz
+Sitemap: https://mangisho.github.io/css/sitemap.html.gz
+Sitemap: https://mangisho.github.io/includes/sitemap.html.gz
+Sitemap: https://mangisho.github.io/item/sitemap.html.gz
+Sitemap: https://mangisho.github.io/src/sitemap.html.gz
